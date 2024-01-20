@@ -10,7 +10,7 @@ export default function TabOneScreen() {
       <Text style={styles.title}>Tab One Yo</Text>
       <View style={styles.separator} lightColor="#eee" darkColor="rgba(255,255,255,0.1)" />
       <EditScreenInfo path="app/(tabs)/index.tsx" />
-      <Image source={{uri: 'https://www.nexushub.co/images/aoe2techtree.png'}} style={{width: 200, height: 200}}/>
+      <Image source={{uri: 'https://upload.wikimedia.org/wikipedia/commons/b/bd/Test.svg'}} style={{width: 200, height: 200}}/>
     </View>
   );
 }
